@@ -9,7 +9,7 @@
 
     body {
     background-color: rgb(187, 204, 250);
-    border:
+
 }
 
     h1 {
@@ -32,17 +32,17 @@
 
 
     h2 {
-        background-color:
-        color:
-        border:
+        background-color: white;
+        color:black;
+        border:inset;
 }
 
     h3 {
-        background-color:
-        color:
+        background-color: lightcyan;
+        color:red;
 }
 
     li {
-        background-color:
-        color:
+        background-color: lightblue;
+        color: orange;
 }

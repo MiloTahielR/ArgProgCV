@@ -1,0 +1,23 @@
+    body {
+    background-color: rgb(233, 217, 217);
+   }
+
+    header {
+    color:white;
+    max-width: max-content; 
+    min-width: min-content;
+    border-style:none;
+    font-family:'Berkshire Swash', cursive;
+    font-size: 40px;
+    font-style:oblique;
+    text-shadow:2px 4px 2px rgb(116, 13, 13);
+    text-align:left;
+    text-justify: auto;
+    font-weight:bolder;
+    width:fit-content;
+    height: 60px;
+    padding:10px;
+    margin:10px;
+    background-color: black;
+    position: fixed;
+   }
